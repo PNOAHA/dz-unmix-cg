@@ -1,6 +1,6 @@
 # Detrital-Zircon Provenance Unmixing with Supervised NMF — Code Repository
 
-[![DOI](https://img.shields.io/badge/DOI-pending-lightgrey)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20371892.svg)](https://doi.org/10.5281/zenodo.20371892) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)
 
 This repository contains the analysis, figure-generation, and manuscript-build scripts that underlie the paper:
 
@@ -11,9 +11,9 @@ This repository contains the analysis, figure-generation, and manuscript-build s
 
 The companion code archive (this repository, with intermediate result files and rendered figures) is mirrored on Zenodo:
 
-> Pan, L. (2026). *Detrital-zircon provenance unmixing with supervised NMF — supplementary code and data.* Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+> Pan, L. (2026). *Detrital-zircon provenance unmixing with supervised NMF — supplementary code and data.* Zenodo. https://doi.org/10.5281/zenodo.20371892
 
-(DOI will become live upon manuscript acceptance; the reserved DOI is cited in the manuscript.)
+(DOI is currently Reserved in Draft state and will be formally published upon manuscript acceptance; the Reserved DOI is the stable identifier cited in the manuscript.)
 
 ## What is in here
 
@@ -116,7 +116,7 @@ If you use the code, data, or figures from this repository, please cite both the
                --- supplementary code and data},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXXX}
+  doi       = {10.5281/zenodo.20371892}
 }
 ```
 
