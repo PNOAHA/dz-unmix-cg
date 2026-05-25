@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+package-lock.json
+
+# Office (manuscript built fresh from build_cg_manuscript.js; don't ship binaries)
+*.docx
+~$*.docx
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups / scratch
+*.bak
+*_old.*
+*_backup.*
+*.swp
+.idea/
+.vscode/

@@ -1,0 +1,17 @@
+{
+  "name": "dz-unmix-cg-manuscript",
+  "version": "1.0.0",
+  "description": "Manuscript build script for Pan (2026) Computers & Geosciences submission.",
+  "scripts": {
+    "build": "node build_cg_manuscript.js"
+  },
+  "dependencies": {
+    "docx": "^8.5.0"
+  },
+  "license": "MIT",
+  "author": "Lujia Pan <peter205834@hebtu.edu.cn>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PNOAHA/dz-unmix-cg.git"
+  }
+}

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="396.63pt" height="269.424pt" viewBox="0 0 396.63 269.424" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-12T10:31:59.633983</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 269.424 
+L 396.63 269.424 
+L 396.63 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 22.4892 99.00864 
+L 374.1408 99.00864 
+L 374.1408 27.60192 
+L 22.4892 27.60192 
+z
+" clip-path="url(#p178384505c)" style="fill: #fcf5e6; stroke: #e69f00; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 22.4892 37.80288 
+L 374.1408 37.80288 
+L 374.1408 27.60192 
+L 22.4892 27.60192 
+z
+" clip-path="url(#p178384505c)" style="fill: #e69f00"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 30.1338 93.90816 
+L 137.1582 93.90816 
+L 137.1582 42.90336 
+L 30.1338 42.90336 
+z
+" clip-path="url(#p178384505c)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 144.8028 93.90816 
+L 251.8272 93.90816 
+L 251.8272 42.90336 
+L 144.8028 42.90336 
+z
+" clip-path="url(#p178384505c)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 259.4718 93.90816 
+L 366.4962 93.90816 
+L 366.4962 42.90336 
+L 259.4718 42.90336 
+z
+" clip-path="url(#p178384505c)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 140.9805 102.283451 
+Q 140.9805 137.262923 140.9805 169.1119 
+" clip-path="url(#p178384505c)" style="fill: none; stroke: #1a1a1a; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 145.7805 159.5119 
+L 140.9805 169.1119 
+L 136.1805 159.5119 
+z
+" clip-path="url(#p178384505c)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 312.984 172.241029 
+Q 312.984 137.261557 312.984 104.965367 
+" clip-path="url(#p178384505c)" style="fill: none; stroke: #0072b2; stroke-width: 2.4; stroke-linecap: round"/>
+    <path d="M 308.984 112.965367 
+L 312.984 104.965367 
+L 316.984 112.965367 
+z
+" clip-path="url(#p178384505c)" style="fill: #0072b2; stroke: #0072b2; stroke-width: 2.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 22.4892 246.92256 
+L 374.1408 246.92256 
+L 374.1408 175.51584 
+L 22.4892 175.51584 
+z
+" clip-path="url(#p178384505c)" style="fill: #e5f5f1; stroke: #009e73; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 22.4892 185.7168 
+L 374.1408 185.7168 
+L 374.1408 175.51584 
+L 22.4892 175.51584 
+z
+" clip-path="url(#p178384505c)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 30.1338 241.82208 
+L 137.1582 241.82208 
+L 137.1582 190.81728 
+L 30.1338 190.81728 
+z
+" clip-path="url(#p178384505c)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 144.8028 241.82208 
+L 251.8272 241.82208 
+L 251.8272 190.81728 
+L 144.8028 190.81728 
+z
+" clip-path="url(#p178384505c)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 259.4718 241.82208 
+L 366.4962 241.82208 
+L 366.4962 190.81728 
+L 259.4718 190.81728 
+z
+" clip-path="url(#p178384505c)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #ffffff" x="26.3115" y="35.419275" transform="rotate(-0 26.3115 35.419275)">  Tectonic state θ   (unknown — to be inferred)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="83.646" y="53.14158" transform="rotate(-0 83.646 53.14158)">Uplift history</text>
+   </g>
+   <g id="text_3">
+    <!-- $\theta_u(x, t)$ -->
+    <g transform="translate(66.846 71.16826)">
+     <text>
+      <tspan x="0" y="-0.328125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">θ</tspan>
+      <tspan x="14.729492" y="-0.328125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">x</tspan>
+      <tspan x="25.774414" y="-0.328125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">t</tspan>
+      <tspan x="6.118164" y="1.3125" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">u</tspan>
+      <tspan x="10.828125" y="-0.328125" style="font-size: 10px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="20.647461" y="-0.328125" style="font-size: 10px; font-family: 'DejaVu Sans'">,</tspan>
+      <tspan x="29.695312" y="-0.328125" style="font-size: 10px; font-family: 'DejaVu Sans'">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="83.646" y="88.454823" transform="rotate(-0 83.646 88.454823)">at sources</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="198.315" y="53.14158" transform="rotate(-0 198.315 53.14158)">Subsidence history</text>
+   </g>
+   <g id="text_6">
+    <!-- $\theta_s(x, t)$ -->
+    <g transform="translate(181.865 71.16826)">
+     <text>
+      <tspan x="0" y="-0.328125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">θ</tspan>
+      <tspan x="13.939941" y="-0.328125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">x</tspan>
+      <tspan x="24.984863" y="-0.328125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">t</tspan>
+      <tspan x="6.118164" y="1.3125" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.038574" y="-0.328125" style="font-size: 10px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="19.85791" y="-0.328125" style="font-size: 10px; font-family: 'DejaVu Sans'">,</tspan>
+      <tspan x="28.905762" y="-0.328125" style="font-size: 10px; font-family: 'DejaVu Sans'">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="198.315" y="88.454823" transform="rotate(-0 198.315 88.454823)">at basin sinks</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="312.984" y="53.14158" transform="rotate(-0 312.984 53.14158)">Routing field</text>
+   </g>
+   <g id="text_9">
+    <!-- $\theta_r(x, t)$ -->
+    <g transform="translate(296.934 71.11826)">
+     <text>
+      <tspan x="0" y="-0.328125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">θ</tspan>
+      <tspan x="13.170898" y="-0.328125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">x</tspan>
+      <tspan x="24.21582" y="-0.328125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">t</tspan>
+      <tspan x="6.118164" y="1.3125" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">r</tspan>
+      <tspan x="9.269531" y="-0.328125" style="font-size: 10px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="19.088867" y="-0.328125" style="font-size: 10px; font-family: 'DejaVu Sans'">,</tspan>
+      <tspan x="28.136719" y="-0.328125" style="font-size: 10px; font-family: 'DejaVu Sans'">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="312.984" y="88.454823" transform="rotate(-0 312.984 88.454823)">source → sink paths</text>
+   </g>
+   <g id="text_11">
+    <text style="font-style: italic; font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #1a1a1a" transform="translate(99.993713 134.201068)">forward</text>
+    <text style="font-style: italic; font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #1a1a1a" transform="translate(104.9984 145.493724)">map F</text>
+   </g>
+   <g id="text_12">
+    <!-- $d = F(\theta) + \varepsilon$ -->
+    <g style="fill: #1a1a1a" transform="translate(156.2697 136.815041)">
+     <text>
+      <tspan x="0" y="-0.1875" style="font-style: oblique; font-size: 18px; font-family: 'DejaVu Sans'; fill: #1a1a1a">d</tspan>
+      <tspan x="33.521484" y="-0.1875" style="font-style: oblique; font-size: 18px; font-family: 'DejaVu Sans'; fill: #1a1a1a">F</tspan>
+      <tspan x="50.897461" y="-0.1875" style="font-style: oblique; font-size: 18px; font-family: 'DejaVu Sans'; fill: #1a1a1a">θ</tspan>
+      <tspan x="91.02832" y="-0.1875" style="font-style: oblique; font-size: 18px; font-family: 'DejaVu Sans'; fill: #1a1a1a">ε</tspan>
+      <tspan x="14.932617" y="-0.1875" style="font-size: 18px; font-family: 'DejaVu Sans'; fill: #1a1a1a">=</tspan>
+      <tspan x="43.875" y="-0.1875" style="font-size: 18px; font-family: 'DejaVu Sans'; fill: #1a1a1a">(</tspan>
+      <tspan x="61.910156" y="-0.1875" style="font-size: 18px; font-family: 'DejaVu Sans'; fill: #1a1a1a">)</tspan>
+      <tspan x="72.439453" y="-0.1875" style="font-size: 18px; font-family: 'DejaVu Sans'; fill: #1a1a1a">+</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-style: italic; font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #666666" x="156.2697" y="150.0507" transform="rotate(-0 156.2697 150.0507)">Eq. (6.1)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-style: italic; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0072b2" transform="translate(320.6286 129.248724)">Bayesian</text>
+    <text style="font-style: italic; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0072b2" transform="translate(320.6286 139.517584)">inversion</text>
+    <text style="font-style: italic; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0072b2" transform="translate(320.6286 149.823568)">(Eq. 6.4)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #ffffff" x="26.3115" y="183.333195" transform="rotate(-0 26.3115 183.333195)">  Sedimentary observations d   (measured at basins)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="83.646" y="201.053156" transform="rotate(-0 83.646 201.053156)">Detrital zircon</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="83.646" y="218.467258" transform="rotate(-0 83.646 218.467258)">U–Pb age density</text>
+   </g>
+   <g id="text_18">
+    <!-- $d_{\mathrm{zircon}}(t)$ -->
+    <g transform="translate(61.921 237.15511)">
+     <text>
+      <tspan x="0" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">d</tspan>
+      <tspan x="34.746143" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">t</tspan>
+      <tspan x="6.982422" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">z</tspan>
+      <tspan x="11.02417" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">i</tspan>
+      <tspan x="13.163477" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">r</tspan>
+      <tspan x="16.329199" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">c</tspan>
+      <tspan x="20.562695" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">o</tspan>
+      <tspan x="25.273682" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">n</tspan>
+      <tspan x="30.454639" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="39.059131" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="198.315" y="201.053156" transform="rotate(-0 198.315 201.053156)">Sediment flux</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="198.315" y="218.517063" transform="rotate(-0 198.315 218.517063)">time series</text>
+   </g>
+   <g id="text_21">
+    <!-- $d_{\mathrm{flux}}(t)$ -->
+    <g transform="translate(181.045 237.15511)">
+     <text>
+      <tspan x="0" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">d</tspan>
+      <tspan x="25.861816" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">t</tspan>
+      <tspan x="6.982422" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">f</tspan>
+      <tspan x="9.693213" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">l</tspan>
+      <tspan x="11.83252" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">u</tspan>
+      <tspan x="16.712695" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">x</tspan>
+      <tspan x="21.570312" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="30.174805" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 10px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="312.984" y="201.114094" transform="rotate(-0 312.984 201.114094)">Sequence-strat</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="312.984" y="218.517063" transform="rotate(-0 312.984 218.517063)">boundaries / tracts</text>
+   </g>
+   <g id="text_24">
+    <!-- $d_{\mathrm{seq}}(z)$ -->
+    <g transform="translate(295.329 236.64636)">
+     <text>
+      <tspan x="0" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">d</tspan>
+      <tspan x="25.211377" y="-0.640625" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">z</tspan>
+      <tspan x="6.982422" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.994092" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="15.731396" y="1.164062" style="font-size: 7.7px; font-family: 'DejaVu Sans'">q</tspan>
+      <tspan x="20.919873" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="30.985303" y="-0.640625" style="font-size: 11px; font-family: 'DejaVu Sans'">)</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p178384505c">
+   <rect x="7.2" y="7.2" width="382.23" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>

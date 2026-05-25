@@ -1,0 +1,12 @@
+# QN2025106 数据平台 Python 依赖
+# 测试环境: Windows 11 + Python 3.13 + miniconda3
+#
+# 安装:
+#   & "C:/Users/Administrator/miniconda3/python.exe" -m pip install -r requirements.txt
+
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+
+# Node.js 端依赖 (docx 构建): 见 package.json (n/a, 用全局 npm root)
+#   npm install -g docx

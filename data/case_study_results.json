@@ -1,0 +1,95 @@
+{
+  "experiment": "QN2025106-IND4-CaseStudy-NEAsia-K1",
+  "date": "2026-05-12",
+  "n_samples": 4,
+  "samples": [
+    {
+      "name": "Songliao_Yingcheng_K1",
+      "label": "松辽营城组 (K1)",
+      "lit_source": "Wang PJ 2016 Geosci. Front.; Wang T 2022",
+      "interpretation": "K1 弧岩浆活动强盛期,大兴安岭东缘火山弧 (~130 Ma) 是主要碎屑供应源 (~70%); 副源为 CAOB 古生代基底 (~20%) 与少量华北克拉通古老物源 (~10%).",
+      "n_grains": 201,
+      "true_w": {
+        "S1_arc": 0.7,
+        "S2_CAOB": 0.2,
+        "S3_NCC": 0.1
+      },
+      "pred_w": {
+        "S1_arc": 0.7095133657550011,
+        "S2_CAOB": 0.17605866189685768,
+        "S3_NCC": 0.11442797234814117
+      },
+      "weight_MAE": 0.015960892068761556,
+      "argmax_true_source": "S1_arc",
+      "argmax_pred_source": "S1_arc",
+      "top1_match": true
+    },
+    {
+      "name": "Hailar_Damoguaihe_K1",
+      "label": "海拉尔大磨拐河组 (K1)",
+      "lit_source": "Guo ZX 2018 GSAB; Li ZQ 2021 Tectonophysics",
+      "interpretation": "海拉尔盆地 K1 沉积以邻近大兴安岭中生代弧岩浆为主源 (~60%), 中亚造山带古生代基底贡献中等 (~30%), 少量克拉通古老成分 (~10%).",
+      "n_grains": 251,
+      "true_w": {
+        "S1_arc": 0.6,
+        "S2_CAOB": 0.3,
+        "S3_NCC": 0.1
+      },
+      "pred_w": {
+        "S1_arc": 0.5344953124035546,
+        "S2_CAOB": 0.3698871780615156,
+        "S3_NCC": 0.09561750953492971
+      },
+      "weight_MAE": 0.046591452041010416,
+      "argmax_true_source": "S1_arc",
+      "argmax_pred_source": "S1_arc",
+      "top1_match": true
+    },
+    {
+      "name": "Erlian_Bayanhua_K1",
+      "label": "二连巴音花组 (K1)",
+      "lit_source": "Meng QR 2003 Tectonophysics; Feng 2023",
+      "interpretation": "二连盆地距 CAOB 古生代基底更近,中生代弧 (~40%) 与古生代基底 (~40%) 几乎平分,加上 ~20% 的克拉通古老物源贡献.",
+      "n_grains": 181,
+      "true_w": {
+        "S1_arc": 0.4,
+        "S2_CAOB": 0.4,
+        "S3_NCC": 0.2
+      },
+      "pred_w": {
+        "S1_arc": 0.3144626890575292,
+        "S2_CAOB": 0.4479682164112779,
+        "S3_NCC": 0.23756909453119285
+      },
+      "weight_MAE": 0.05702487396164716,
+      "argmax_true_source": "S1_arc",
+      "argmax_pred_source": "S2_CAOB",
+      "top1_match": false
+    },
+    {
+      "name": "NCC_NorthMargin_K1",
+      "label": "华北克拉通北缘 K1 沉积",
+      "lit_source": "Meng F 2024; Meng 2022",
+      "interpretation": "靠近 NCC 北缘的 K1 沉积,以克拉通古老物源为主 (~60%), 次为 CAOB 古生代 (~30%), 弧岩浆贡献最少 (~10%) — 与盆-山耦合距离的预期一致.",
+      "n_grains": 221,
+      "true_w": {
+        "S1_arc": 0.1,
+        "S2_CAOB": 0.3,
+        "S3_NCC": 0.6
+      },
+      "pred_w": {
+        "S1_arc": 0.1085648112995714,
+        "S2_CAOB": 0.2850988169193425,
+        "S3_NCC": 0.606336371781086
+      },
+      "weight_MAE": 0.009934122053771635,
+      "argmax_true_source": "S3_NCC",
+      "argmax_pred_source": "S3_NCC",
+      "top1_match": true
+    }
+  ],
+  "overall_top1_match": 0.75,
+  "overall_weight_MAE": 0.032377835031297694,
+  "data_provenance": "literature-grounded synthetic per Wang 2016 / Guo 2018 / Meng 2024 etc.",
+  "note": "User may replace case_study_data/*.csv with real measured zircon data; pipeline unchanged."
+}
